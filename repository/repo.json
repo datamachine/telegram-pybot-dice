@@ -2,6 +2,7 @@
     "name": "Dice",
     "description": "Roll Dice!",
     "version": "0.1",
+    "default_enable": ["Dice"],
     "homepage": "https://github.com/datamachine/telegram-pybot-dice",
     "repo": "https://github.com/datamachine/telegram-pybot-dice.git",
     "branch": "master"
