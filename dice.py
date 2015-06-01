@@ -1,8 +1,8 @@
-import plugintypes
+from telegrambot.plugin import TelegramPlugin
 import re
 import random
 
-class DicePlugin(plugintypes.TelegramPlugin):
+class DicePlugin(TelegramPlugin):
     """
     Roll Dice
     """
