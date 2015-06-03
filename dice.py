@@ -1,8 +1,8 @@
-from telegrambot.plugin import TelegramPlugin
+from telex.plugin import TelexPlugin
 import re
 import random
 
-class DicePlugin(TelegramPlugin):
+class DicePlugin(TelexPlugin):
     """
     Roll Dice
     """
